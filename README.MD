@@ -1,0 +1,1 @@
+The simnplest dead pixels tester. A single webpage that can be opened in fullscreen in any browser. Click to cycle colors.
